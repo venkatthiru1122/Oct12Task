@@ -17,5 +17,6 @@ public static void main (String [] args) {
 	System.out.println("Total Words in the Sentence : "+count);
 	System.out.println("Finish");
 	System.out.println("100%");
+	System.out.println("Line 1");
 }
 }
